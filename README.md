@@ -15,7 +15,7 @@ Datafiles: close.csv
 
 ```
 
-![Picture](SFM12TailGEV.png)
+![github](https://github.com/SFMWISE2016/SFM12TailGEV/blob/master/SFMTailGEV.png) 
 
 
 ```r
